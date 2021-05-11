@@ -1,0 +1,30 @@
+<resources>
+    <string name="texto_imc">
+        IMC é a sigla para Índice de Massa Corporal,que é um cálculo que serve para avaliar se a pessoa está dentro do seu peso ideal em relação à altura. Assim, de acordo com o valor do resultado de IMC, a pessoa pode saber se está dentro do peso ideal, acima ou abaixo do peso desejado.
+    </string>
+    <string name="app_name">BodyIMC</string>
+    <string name="idade">Idade</string>
+    <string name="Altura">Altura</string>
+    <string name="Peso">Peso</string>
+    <string name="kg">KG</string>
+    <string name="cm">CM</string>
+    <string name="anos">anos</string>
+    <string name="Classificacao">CLASSIFICAÇÃO</string>
+    <string name="IMC">IMC</string>
+    <string name="Peso1">Abaixo do peso: </string>
+    <string name="Peso1.2">&lt; 18,5</string>
+    <string name="Peso2">Peso normal: </string>
+    <string name="Peso2.2">18,5 - 24,9</string>
+    <string name="Peso3">Sobrepeso: </string>
+    <string name="Peso3.2">25 - 29,9</string>
+    <string name="Peso4">Obesidade Grau I: </string>
+    <string name="Peso4.2">30 - 34,9</string>
+    <string name="Peso5">Obesidade Grau II: </string>
+    <string name="Peso5.2">35 - 39,9</string>
+    <string name="Peso6">Obesidade Grau III: </string>
+    <string name="Peso6.2">&gt;= 40</string>
+    <string-array name="altura_spinner">
+        <item>CM</item>
+        <item>FT</item>
+    </string-array>
+</resources>
