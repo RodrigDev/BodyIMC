@@ -1,4 +1,4 @@
-package com.rodrigo.bodyimc.activity;
+    package com.rodrigo.bodyimc.activity;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
